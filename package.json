@@ -1,0 +1,28 @@
+{
+  "name": "battles",
+  "version": "1.0.1",
+  "description": "Battles utils",
+  "main": "lib/battles.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/berwin0415/battles.git"
+  },
+  "keywords": [
+    "utils for javascripts"
+  ],
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "author": "HAN BERWIN <berwin0415@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/berwin0415/battles/issues"
+  },
+  "homepage": "https://github.com/berwin0415/battles#readme"
+}
