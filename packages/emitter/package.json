@@ -1,0 +1,15 @@
+{
+  "name": "@battles/emitter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.cjs.js",
+  "keywords": [
+    "battles"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": ["lib"],
+  "author": "HAN BERWIN<berwin0415@gmail.com>",
+  "license": "MIT"
+}
